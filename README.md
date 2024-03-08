@@ -5,6 +5,7 @@ Exercícios, tarefas e desafios aqui.
 
 ### Quais ferramentas estamos usando
 
-[https://jsonformatter.curiousconcept.com/#](Json Formatter)
+(https://jsonformatter.curiousconcept.com/#)[Json Formatter]
 
-[https://mongoplayground.net/](MongoDB Playground)
+(https://mongoplayground.net/)[MongoDB Playground]
+
