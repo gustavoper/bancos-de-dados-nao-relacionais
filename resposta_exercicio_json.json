@@ -1,0 +1,29 @@
+{
+    "compra": [
+        {
+            "nome": "Jose",
+            "valor": 100, 
+            "categoria": "Frutas"
+        },
+        {
+            "nome": "Maria",
+            "valor": 100, 
+            "categoria": "Verduras"
+        },
+        {
+            "nome": "Joao",
+            "valor": 250, 
+            "categoria": "Legumes"
+        },
+        {
+            "nome": "Marcos",
+            "valor": 900, 
+            "categoria": "Hortifruti"
+        },
+        {
+            "nome": "Andre",
+            "valor": 450, 
+            "categoria": "Frutas"
+        }
+    ]
+}
